@@ -1,7 +1,7 @@
 # mission_25
 
-### 🚀 Rahul GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkoley96&show_icons=true&theme=radical)
+<!-- ### 🚀 Rahul GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkoley96&show_icons=true&theme=radical) -->
 
 <!-- 
 ### 💻 Most Used Languages
