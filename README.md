@@ -10,5 +10,7 @@
 
 ### 💻 Most Used Languages
 ![Python](https://img.shields.io/badge/Python-40%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-30%25-yellow)
-![C++](https://img.shields.io/badge/C++-15%25-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30%25-yellow)
+![SQL](https://img.shields.io/badge/SQL-15%25-orange)
+![Kinetica](https://img.shields.io/badge/Kinetica-15%25-pink)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-15%25-red)
