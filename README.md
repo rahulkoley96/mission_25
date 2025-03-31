@@ -1,12 +1,12 @@
 # mission_25
 
-<!-- ### 🚀 Rahul GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkoley96&show_icons=true&theme=radical) -->
+### 🚀 Rahul GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkoley96&show_icons=true&theme=radical)
 
-<!-- 
+
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkoley96&layout=compact&theme=radical)
- -->
+
 
 <!-- ### 💻 Most Used Languages
 ![Python](https://img.shields.io/badge/Python-40%25-blue)
@@ -16,27 +16,21 @@
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-15%25-red) -->
 
 
-<!-- ### 🔥 GitHub Streak
+### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rahulkoley96&theme=radical)
 
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-koley/) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-koley/)
 
-<!-- ### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-0099CC?style=for-the-badge&logo=postgresql&logoColor=white) -->
+![PostGIS](https://img.shields.io/badge/PostGIS-0099CC?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-<!-- ### 🛠️ Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-005F6B?style=for-the-badge&logo=postgresql&logoColor=white)
- -->
 
 
 
