@@ -1,6 +1,7 @@
 # mission_25
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h3 align="center">As a passionate spatial intelligence guy love to play with data's</h3>
 
 ### 🚀 Rahul GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkoley96&show_icons=true&theme=radical)
@@ -38,12 +39,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">As a passionate spatial intelligence guy love to play with data's</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
