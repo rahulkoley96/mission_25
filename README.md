@@ -6,6 +6,8 @@
 <!-- ### 🚀 Rahul GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkoley96&show_icons=true&theme=radical) -->
 
+![Profile Views](https://komarev.com/ghpvc/?username=rahulkoley96&color=blue)
+
 
 
 ### 💻 Most Used Languages
@@ -50,4 +52,4 @@
 
 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rahulkoley96&theme=radical)
+
