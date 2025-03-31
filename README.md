@@ -47,3 +47,7 @@
 <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulkoley96&theme=radical) -->
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulkoley96&theme=react)
+
+
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rahulkoley96&theme=radical)
