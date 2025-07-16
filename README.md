@@ -48,7 +48,7 @@
 
 <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulkoley96&theme=radical) -->
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulkoley96&theme=react)
+<!--![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulkoley96&theme=react)
 
 
 
