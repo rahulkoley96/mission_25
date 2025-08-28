@@ -49,5 +49,15 @@
 <!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulkoley96&theme=dracula) -->
 
 
+## 🚀 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulkoley96&theme=react&v=2)
+
+## 📊 GitHub Stats
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkoley96&show_icons=true&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rahulkoley96&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkoley96&layout=compact&theme=react)
+
+
 
 # Let's connect over a coffee! ☕📅 
