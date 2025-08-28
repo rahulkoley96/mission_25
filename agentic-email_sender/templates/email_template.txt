@@ -2,7 +2,7 @@ Dear {employer_name},
 
 I am writing to express my interest in the {job_title} role at {company_name}. Please find my resume attached for your consideration.
 
-Looking forward to hearing from you..
+Looking forward to hearing from you.
 
 Best regards,  
 Rahul Koley
